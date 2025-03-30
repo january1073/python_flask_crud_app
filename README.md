@@ -1,4 +1,4 @@
-# flask_crud_app
+# python_flask_crud_app
 CRUD app with Flask
 
 Required framework
